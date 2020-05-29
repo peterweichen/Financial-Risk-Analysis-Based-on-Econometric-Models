@@ -1,8 +1,8 @@
 # Financial-Risk-Analysis-Based-on-Econometric-Models
 Financial Risk Analysis Based on Econometric Models for SPXL and AMZN in R
 
-author: "Tsung-Wei (Peter) Chen"
-date: "12/02/2019"
+author: "Tsung-Wei (Peter) Chen"  
+date: "12/02/2019"  
 
 
 ## Introduction
